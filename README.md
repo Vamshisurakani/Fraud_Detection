@@ -2,6 +2,9 @@
 
 This project detects fraudulent credit card transactions using machine learning. It includes preprocessing, model training, and a deployed Streamlit app for predictions.
 
+## Data-set
+This project dataset is taken from kaggle(http://kaggle.com/datasets/mlg-ulb/creditcardfraud)
+
 ## Features
 - Data Preprocessing
 - Exploratory Data Analysis (EDA)
